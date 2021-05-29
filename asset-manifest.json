@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/barbergrib/static/css/main.75e9e73e.chunk.css",
+    "main.js": "/barbergrib/static/js/main.60a30a01.chunk.js",
+    "main.js.map": "/barbergrib/static/js/main.60a30a01.chunk.js.map",
+    "runtime-main.js": "/barbergrib/static/js/runtime-main.9db5c75b.js",
+    "runtime-main.js.map": "/barbergrib/static/js/runtime-main.9db5c75b.js.map",
+    "static/js/2.283baf61.chunk.js": "/barbergrib/static/js/2.283baf61.chunk.js",
+    "static/js/2.283baf61.chunk.js.map": "/barbergrib/static/js/2.283baf61.chunk.js.map",
+    "static/js/3.2f267ac3.chunk.js": "/barbergrib/static/js/3.2f267ac3.chunk.js",
+    "static/js/3.2f267ac3.chunk.js.map": "/barbergrib/static/js/3.2f267ac3.chunk.js.map",
+    "index.html": "/barbergrib/index.html",
+    "static/css/main.75e9e73e.chunk.css.map": "/barbergrib/static/css/main.75e9e73e.chunk.css.map",
+    "static/js/2.283baf61.chunk.js.LICENSE.txt": "/barbergrib/static/js/2.283baf61.chunk.js.LICENSE.txt",
+    "static/media/1.a1929b06.jpg": "/barbergrib/static/media/1.a1929b06.jpg",
+    "static/media/2.bc66693f.jpg": "/barbergrib/static/media/2.bc66693f.jpg",
+    "static/media/3.2e8acc58.jpg": "/barbergrib/static/media/3.2e8acc58.jpg",
+    "static/media/4.34a57be8.jpg": "/barbergrib/static/media/4.34a57be8.jpg",
+    "static/media/petya.b98fd770.jpg": "/barbergrib/static/media/petya.b98fd770.jpg",
+    "static/media/zhenya.628b71e7.jpg": "/barbergrib/static/media/zhenya.628b71e7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9db5c75b.js",
+    "static/js/2.283baf61.chunk.js",
+    "static/css/main.75e9e73e.chunk.css",
+    "static/js/main.60a30a01.chunk.js"
+  ]
+}
